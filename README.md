@@ -70,6 +70,7 @@ nltk.download(type here) >>> ["stopwords","wordnet","averaged_perceptron_tagger"
 
 ### NER - Named Entity Recognition is the process of extracting proper nouns or proper noun phrases. For example, in the sentence 'Robert is interested in Amazon', the entities 'Robert' (Name) and 'Amazon' (Organization) are selected.
 
+![download](https://user-images.githubusercontent.com/109751694/223889706-97592180-bcc4-4bc5-8617-e94be06a3b58.png)
 
 ## Sentiment Analysis
 
